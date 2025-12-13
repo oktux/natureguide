@@ -1,0 +1,17 @@
+{
+   "baseURL": "https://oktux.com/natureguide",
+   "languageCode": "en-us",
+   "title": "Nature Guides",
+   "theme": "hugo-book",
+   "params": {
+      "BookComments": false,
+      "BookSection": "*",
+      "BookLogo": "papapishu-black-capped-chickadee.svg",
+      "BookFavicon": "papapishu-black-capped-chickadee.svg"
+   },
+   "caches": {
+      "images": {
+         "dir": ":cacheDir/images"
+      }
+   }
+}

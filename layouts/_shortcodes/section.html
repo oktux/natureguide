@@ -1,0 +1,13 @@
+{{- warnf "Section shortcode is deprecated and will be removed" -}}
+<ul>
+{{ range .Page.Pages }}
+  <li>
+    <a href="{{ .RelPermalink }}">{{ partial "docs/title" . }}</a>
+  </li>
+  {{ if (in $.Params "summary") -}}
+  <li class="markdown-inner">
+    {{- or .Description .Summary site.Params.description | plainify | htmlUnescape }}
+  </li>
+  {{ end -}}
+{{ end }}
+</ul>
