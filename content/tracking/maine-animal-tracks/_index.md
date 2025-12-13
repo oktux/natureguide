@@ -1,5 +1,5 @@
 # Maine Animal Tracks
 
-![Maine Animal Tracks](images/mass-wildlife-track-card.jpg)
+![Maine Animal Tracks](images/maine_animal_tracks_resized.jpg)
 
-Source: [Get to know animal tracks (Mass Wildlife)](https://www.mass.gov/news/get-to-know-animal-tracks)
+Source: [Maine Animal Tracks](https://www.maine.gov/ifw/docs/animaltracksposter.pdf)
