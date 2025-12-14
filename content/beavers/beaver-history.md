@@ -3,6 +3,8 @@ weight: 10
 ---
 # Notes on Beaver History
 
+## Prehistory to 1600s
+
 **Ancestral members of the beaver family, Castoridae (in the Order: Rodentia) date back more than 20 million years, globally.**
 
 - From fossil evidence, around 30 genera have been identified as having belonged to this family, mostly in Eurasia. 
@@ -15,6 +17,7 @@ weight: 10
 - The post-glacial beaver intrusion probably led to the damming of *nearly every feeder stream and small river* in the region, creating a vast network of pond and wetland ecosystems.
 - Prior to European colonization, beavers ranged from northern Mexico to the Arctic tundra, excluding only the driest deserts and the Florida panhandle (where juicy beavers would quickly fall prey to alligators). At that time, the total beaver population may have numbered in the hundreds of millions.
 
+## 1600s to 1900s
 **Forest products, fish and furs – mainly from beavers – were the principal exports to Europe during the early colonial period.**
 
 - By the early 17th century, when the British began colonizing North America, *Castor fiber* had already been extirpated from most of Europe. Once abundant supplies of beaver pelts became available in the New World, beaver hats became highly fashionable in Europe and remained so until the mid 19th century when silk became more widely available.
@@ -33,6 +36,8 @@ weight: 10
   - Henry David Thoreau never saw a beaver in Massachusetts! Nor a deer. In an 1855 speech he lamented: “I cannot but feel as if I lived in a tamed, and, as it were, emasculated country.”  
 - Elimination of the beaver population led to a wholesale loss of pond and wetland habitats. This dramatic change in local ecology was reinforced by loss of forest cover for timber, firewood, and farmland, and widespread draining of remaining wetlands to create more farm fields. 
 
+## 1930s to today
+
 **The beaver was “re-established” in the state in the early 1930s (Jackson and Decker, 2004).** 
 
 - By some accounts the “re-establishment” involved natural expansion of a growing population from the Adirondacks; other sources mention deliberate re-stocking in western Massachusetts.
@@ -45,17 +50,12 @@ weight: 10
 
 ## Additional Reading 
 
-Cronin, William (1983), *Changes in the Land: Indians, Colonists, and the Ecology of New England.* New York: Hill and Wang.
-
-Goldfarb, Ben (2018), *Eager: The Surprising, Secret Life of Beavers and Why They Matter.* White River Junction: Chelsea Green Publishing. 
-
-Kaye, Clifford A. (1962), “Early Postglacial Beavers in Southern New England,” *Science*, vol. 138 issue 3543, 906-907. 
-
-Jackson, Scott and Thomas Decker (2004), *Beavers in Massachusetts.* University of Massachusetts Extension and Massachusetts Division of Fisheries and Wildlife. (Revised 6/2004)
-
-Muller-Schwarze, Dietland (2003), *The Beaver: Its Life and Impact.* Ithaca: Comstock (Cornell University Press).
-
-Salisbury, Neal (1982), *Manitou and Providence: Indians, Europeans, and the Making of New England, 1500-1643.* New York: Oxford University Press. 
+- Cronin, William (1983), *Changes in the Land: Indians, Colonists, and the Ecology of New England.* New York: Hill and Wang.
+- Goldfarb, Ben (2018), *Eager: The Surprising, Secret Life of Beavers and Why They Matter.* White River Junction: Chelsea Green Publishing. 
+- Kaye, Clifford A. (1962), “Early Postglacial Beavers in Southern New England,” *Science*, vol. 138 issue 3543, 906-907. 
+- Jackson, Scott and Thomas Decker (2004), *Beavers in Massachusetts.* University of Massachusetts Extension and Massachusetts Division of Fisheries and Wildlife. (Revised 6/2004)
+- Muller-Schwarze, Dietland (2003), *The Beaver: Its Life and Impact.* Ithaca: Comstock (Cornell University Press).
+- Salisbury, Neal (1982), *Manitou and Providence: Indians, Europeans, and the Making of New England, 1500-1643.* New York: Oxford University Press. 
 
 ---
 

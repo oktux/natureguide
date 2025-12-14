@@ -2,13 +2,13 @@
 
 Tracks and other animal evidence help us discover the mammals that inhabit the Massachusetts landscape.
 
-### Tracking terms:
+### Tracking terms
 - **Track** = an impression or print left by an animal
 - **Trail** = a group of tracks showing movement and activity of animal
 - **Stride** = the distance measured between tracks or sets of tracks
 - **Straddle** = the distance measured as the width of a set of tracks
 
-### Types of tracks based on number of toes:
+### Types of tracks based on number of toes
 
 | **Front foot** | **Hind foot** | **Family** | **Trail type**  |
 |----------------|---------------|------------|-----------------|
@@ -23,13 +23,13 @@ Tracks and other animal evidence help us discover the mammals that inhabit the M
 | 5              | 5             | Opossum    | pacer           |
 | 5              | 5             | Raccoon    | pacer           |
 
-### Types of trails:
+### Types of trails
 - **Galloper** = movement when an animal's larger hind feet land in front of smaller forefeet
 - **Perfect stepper** = movement when an animal places hind foot into the track of the front foot
 - **Bounders** = movement when an animal places feet in diagonal pairs
 - **Pacer** = movement when an animal places feet in parallel pairs
 
-### Helpful tracking tools:
+### Helpful tracking tools
 - Tape measure
 - Notebook and pencil
 - Hand lens
