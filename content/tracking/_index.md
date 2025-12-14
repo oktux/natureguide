@@ -1,7 +1,8 @@
 ---
 bookFlatSection: true
+title: "Tracking"
 ---
 
-# Table of contents
+# Tracking
 
 {{< section >}}

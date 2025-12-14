@@ -1,7 +1,8 @@
 ---
 bookFlatSection: true
+title: "Beavers"
 ---
 
-# Table of contents
+# Beavers
 
 {{< section >}}
