@@ -1,3 +1,6 @@
+---
+weight: 10
+---
 # Winter Survival
 
 Animals have evolved life-preserving strategies to survive cold winters. The following is a list of some native animals and how they survive.
